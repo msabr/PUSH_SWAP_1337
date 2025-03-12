@@ -52,7 +52,7 @@ Libft consists of multiple categories of functions, including:
 
    ```bash
    git clone https://github.com/msabr/PUSH_SWAP_1337
-   cd push-swap-42
+   cd PUSH_SWAP_1337
 
 2. Build the mandatory part:
 

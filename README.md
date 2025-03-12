@@ -64,21 +64,6 @@ Libft consists of multiple categories of functions, including:
    ```bash
    ./push_swap <numbers>
 
-4. Build the bonus part (optional):
-
-   ```bash
-   make bonus
-
-5. Run `checker` to validate instructions:
-
-   ```bash
-   ./checker <numbers>
-   <instruction 1>
-   <instruction 2>
-   <...>
-
-5. Finish the `checker` program with `CTRL + D` after send all the instructions. The checker outputs `OK` if sorted, `KO` if not.
-
 #### Additional commands
 
 - `make clean`: remove object files.

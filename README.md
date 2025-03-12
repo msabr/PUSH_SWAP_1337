@@ -72,9 +72,7 @@ Libft consists of multiple categories of functions, including:
 
 ## Project Structure
 
-- `include/push_swap.h`: header for mandatory part.
-- `src/*.c`: source files for push_swap (e.g., main.c, sort.c, push.c).
-- `bonus/include/checker_bonus.h`: header for bonus part.
-- `bonus/src/*.c`: source files for checker (e.g., main_bonus.c, instructions.c).
+- `push_swap.h`: header for mandatory part.
+- `functions_*.c`: source files for push_swap (e.g., main.c, sort.c, push.c).
 - `Makefile`: compilation automation.
-- `lib/libft/`: directory for the libft library.
+- `Libft/`: directory for the libft library.

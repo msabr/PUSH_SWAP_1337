@@ -51,7 +51,7 @@ Libft consists of multiple categories of functions, including:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/LuizGandra/push-swap-42.git
+   git clone https://github.com/msabr/PUSH_SWAP_1337
    cd push-swap-42
 
 2. Build the mandatory part:

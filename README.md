@@ -44,7 +44,7 @@ Libft consists of multiple categories of functions, including:
 
 - C compiler (e.g., `clang`).
 - `make` utility.
-- `libft` library in the `lib/libft` directory.
+- `libft` library in the `Libft` directory.
 
 ### How to Build and Run
 

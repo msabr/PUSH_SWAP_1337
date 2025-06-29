@@ -1,18 +1,14 @@
-# **Libft - 42 Network**  
+# **PUSH_SWAP - 42 Network**  
 
-## **Overview**  
-This project is the first step in my journey at **42 Network**. The goal of **Libft** is to rebuild essential functions from the C standard library, along with additional utility functions that will be useful throughout the entire curriculum. By implementing these functions, I gain a deeper understanding of low-level programming, memory management, and algorithmic problem-solving.  
+A sorting algorithm visualizer and instruction generator written in C, built under strict constraints using only stack operations.
 
-## **Project Scope**  
-Libft consists of multiple categories of functions, including:  
+---
 
-- **Libc Functions**: Rewriting standard library functions such as `strlen`, `strcpy`, `strcmp`, `memset`, `bzero`, and more.  
-- **Memory Management**: Implementing functions like `malloc`, `free`, and `realloc` to handle dynamic memory allocation.  
-- **String Manipulation**: Functions for handling and modifying strings efficiently.  
-- **Linked Lists**: Implementing basic linked list structures and operations.  
-- **Custom Utility Functions**: Additional helper functions that facilitate various tasks in future projects.  
+## 🎯 Objective
 
-### Key Features
+Sort a list of integers using the **fewest possible operations**, given access to only two stacks (`a` and `b`) and a limited instruction set.
+
+---
 
 - Sorts a stack using these operations:
   - `sa`: swap the top two elements of stack A.

@@ -1,5 +1,7 @@
 # **PUSH_SWAP - 42 Network**  
-
+<div align="center">
+<img src="push_swap.png"/>
+</div>
 A sorting algorithm visualizer and instruction generator written in C, built under strict constraints using only stack operations.
 
 ---
